@@ -2,7 +2,7 @@
 """ Function that deploys """
 from fabric.api import *
 
-
+#this comment for alx project. leave it as it is
 env.hosts = ['35.231.33.237', '34.74.155.163']
 env.user = "ubuntu"
 
